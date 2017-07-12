@@ -1,5 +1,5 @@
 # RandomExercises
-Most of the exercises are taken from /r/dailyprogrammer
+Most of the exercises are taken from [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 
 |Exercise Synopsis|Link(s)|
 |-|-|

@@ -1,5 +1,5 @@
 ## Address Parsing
-Taken from the [dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/comments/6mtvbk/20170712_challenge_323_intermediate_parsing/), posted by user [jnazario](https://www.reddit.com/user/jnazario).
+Taken from [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/comments/6mtvbk/20170712_challenge_323_intermediate_parsing/), posted by user [jnazario](https://www.reddit.com/user/jnazario).
 
 #### Description
 Nearly everyone is familiar with mailing addresses - typically a person, optionally an organization, a street address or a postal box, a city, state or province, country, and a postal code. A practical bit of code to have is something that parses addresses, perhaps for validation or for shipping cost calculations.
